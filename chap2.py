@@ -28,11 +28,3 @@ stolen_coins = 2
 print (found_coins + magic_coins * 365 - stolen_coins * 52)
 magic_coins = 13
 print (found_coins + magic_coins * 365 - stolen_coins * 52)
-jack = "Why do gorillas have big nostrils? Big Fingers!!"
-print (jack)
-jack = 'What is pink and fluffy? Pink fluff!!'
-print (jack)
-jack = '''How do dinosaurs pay their bills?
-With tyrannosaurus checks!'''
-print (jack)
-silly_string = '''He said, "Aren't can't shouldn't wouldn't."'''
