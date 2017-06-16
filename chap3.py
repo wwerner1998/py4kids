@@ -20,3 +20,5 @@ print(joke_text % bodypart1)
 print(joke_text % bodypart2)
 nums = 'What did the number %s say to the number %s? Nice belt!!'
 print(nums % (0, 8))
+print(10 * 'a')
+print(1000 * 'snirt')
